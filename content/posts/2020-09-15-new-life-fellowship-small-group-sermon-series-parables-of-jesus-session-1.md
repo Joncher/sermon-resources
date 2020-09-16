@@ -6,6 +6,7 @@ date: 2020-09-15
 excerpt: >
   This small group curriculum is taken from the New Life Parables of Jesus
   sermon series in 2017.
+categories: []
 meta:
   title: Sermon
 ---
