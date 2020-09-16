@@ -3,10 +3,12 @@ template: SinglePost
 title: "New Life Fellowship Small Group Sermon Series Parables Of Jesus - Session 1 "
 status: Published
 date: 2020-09-15
+featuredImage: https://ucarecdn.com/6c78980e-17d3-402b-bbd2-eac09af3bfc8/
 excerpt: >
   This small group curriculum is taken from the New Life Parables of Jesus
   sermon series in 2017.
-categories: []
+categories:
+  - category: Sermon Series Parables Of Jesus
 meta:
   title: Sermon
 ---
