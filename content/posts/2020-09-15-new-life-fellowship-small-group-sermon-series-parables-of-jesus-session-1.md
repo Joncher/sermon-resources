@@ -20,9 +20,6 @@ meta:
 
 ### Date: August 13, 2017
 
-
-<hr/>
-
 <hr/>
 
 **Scripture** (Luke 11:1-13, NIV)
