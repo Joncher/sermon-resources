@@ -57,6 +57,14 @@ const MyImage = ({ nodeKey, src, title, alt }) => {
 
 const HtmlBlock = ({ value }) => {
   if (value.indexOf('<iframe') !== 0) return value
+  if (value.indexOf('<hr') == 0) return (
+    <div
+      className={`Content--border`}
+      dangerouslySetInnerHTML={{
+        __html: value
+      }}
+    />
+  )
   return (
     <div
       className={`Content--Iframe`}
