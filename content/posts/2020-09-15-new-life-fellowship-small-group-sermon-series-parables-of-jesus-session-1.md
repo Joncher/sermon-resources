@@ -48,19 +48,21 @@ And lead us not into temptation.’”
 
 11 “Which of you fathers, if your son asks for a fish, will give him a snake instead? 12 Or if he asks for an egg, will he give him a scorpion? 13 If you then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give the Holy Spirit to those who ask him!”
 
-\--------------------------------------------------------------------------
+<hr/>
 
 **Introduction**
 
 One of the greatest indications of our spiritual vitality is our relationship to God in prayer. As pastor and theologian Tim Keller puts it, “The infallible test of spiritual integrity, Jesus says, is your private prayer life.” The Christian life is impossible to live without a deep and consistent commitment to prayer. This parable provides us with a way to center, ground, and energize us to be people who connect to God in prayer.
 
-\--------------------------------------------------------------------------
+<hr/>
 
 #### Opening Questions
 
 * How is your prayer life? Is there any aspect of it you want to grow in or see change?
 * What does your prayer life reveal about your relationship with God? One way is to describe it in terms of what characterizes any relationship - frequency of communication, content, experience, etc.
 * Sadly for many Christians, we live with what Quaker Parker Palmer calls a “functional atheism,” where though we may be engaged in Christian activities and attending Christian events, we functionally live as though God doesn’t exist. We are functionally atheists in that our lack of attention to communing with God is hardly different from that of atheists. How can a lack of prayer in a Christian’s life be akin to “functional atheism”?
+
+<hr/>
 
 #### Group Discussion Questions
 
@@ -81,12 +83,16 @@ One of the greatest indications of our spiritual vitality is our relationship to
 5. Rather than the common misperception that v. 9 is a formula to ask God repeatedly for what we want, this parable of Jesus points to how God gives us something much greater - the Holy Spirit - when we come to God in prayer (in the truth of our poverty, need, lostness and deadness). How does this confirm, shift, or stretch your views of prayer?
 6. How is receiving the Holy Spirit greater and what we truly need than getting specific answers to our requests?
 
+<hr/>
+
 #### Personal Application
 
 1. What are you taking away from this study?
 2. How do you want your relationship with God to grow? What is getting in the way of growth?
 
 Note: Acknowledging a lack of desire for change is also valid. There can be seasons in our lives where we do not desire to change. In those times, one response can be to ask for the desire (if desired) to change and grow in intimacy with God.
+
+<hr/>
 
 #### Pray Together:
 
