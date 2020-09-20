@@ -94,7 +94,7 @@ Note: Acknowledging a lack of desire for change is also valid. There can be seas
 
 <hr/>
 
-#### Pray Together:
+#### Pray Together
 
 * Take some time to worship and name specific attributes you want to praise God for.
 
