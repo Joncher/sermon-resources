@@ -8,7 +8,7 @@ excerpt: >
   This small group curriculum is taken from the New Life Parables of Jesus
   sermon series in 2017.
 categories:
-  - category: Parables Of Jesus
+  - category: Sermon Studies
 meta:
   title: Sermon
 ---
