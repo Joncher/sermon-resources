@@ -1,9 +1,9 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: 'New Life Resources'
+slug: ""
+title: New Life Resources
+featuredImage: https://ucarecdn.com/d11b3b39-e0ce-4c34-9661-37ac8b9bfaf9/
+subtitle: Welcome to NLF SG Resources site
 meta:
   description: This is a meta description.
   title: New Life Resources
