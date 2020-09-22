@@ -8,4 +8,4 @@ meta:
   description: This is a meta description.
   title: New Life Resources
 ---
-Check out our [SG resources here](infallible-hamilton-4b06e8.netlify.app/blog)
+Check out our [SG resources here](blog)
