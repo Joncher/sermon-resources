@@ -73,10 +73,14 @@ Prayer is not about annoying God until you get God’s attention. The focus in t
 1. * Shameless: Offensively bold behavior; assurance, accompanied with a disregard of the presence or opinion of others.
 2. What challenges do you experience in coming to God shamelessly?
 
+<hr/>
+
 <iframe src="https://streamable.com/e/806tjq?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 3. Prayer isn’t about getting God to do what we want but a means of relating to God as we truly are. Poor, needy, lost, dead. The way we pray is to shape the way we live. Where do you feel poor, needy, lost, or dead?
 4. What burdens of the false self could be lifted if you came with shameless acceptance of how poor, needy, lost, or dead you are?
+
+<hr/>
 
 <iframe src="https://streamable.com/e/b1ai7d?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
