@@ -68,9 +68,15 @@ One of the greatest indications of our spiritual vitality is our relationship to
 
 <iframe src="https://streamable.com/e/b1bly7?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
-Prayer is not about annoying God until you get God’s attention. The focus in this story is not the shameless persistence of the neighbor but rather his willingness to risk his reputation, shamelessly confessing what he doesn’t have. How does this shift in perspective affect how you see prayer? How does “shameless” mark your own prayer life?
 
-1. * Shameless: Offensively bold behavior; assurance, accompanied with a disregard of the presence or opinion of others.
+
+
+
+1. Prayer is not about annoying God until you get God’s attention. The focus in this story is not the shameless persistence of the neighbor but rather his willingness to risk his reputation, shamelessly confessing what he doesn’t have. How does this shift in perspective affect how you see prayer? How does “shameless” mark your own prayer life?
+
+   * Shameless: Offensively bold behavior; assurance, accompanied with a disregard of the presence or opinion of others.
+
+
 2. What challenges do you experience in coming to God shamelessly?
 
 <hr/>
