@@ -16,7 +16,7 @@ Religion and politics are often said to be the two topics to steer away from in 
 
 Our hope is that this three-session guide will help your small group navigate the tensions of political or polarizing conversations with biblical principles.
 
-<hr/>
+
 
 **Guidelines for sharing and praying together**
 
@@ -26,6 +26,8 @@ Our hope is that this three-session guide will help your small group navigate th
 * No fixing, saving, or setting other people straight.
 * Trust and learn from silence. (When tension or conflict arises, that is normal. Welcome it as a moment for silent reflection.)
 * Observe confidentiality.
+
+  <hr/>
 
 ### SESSION 1 Not Withdrawing - Engaged with Civility
 
@@ -51,7 +53,7 @@ Reverend Charlie Drew, seasoned pastor and author of Surprised by Community: Rep
 
 ### Scripture
 
-Luke 10:25-37
+***Luke 10:25-37***
 
 25 On one occasion an expert in the law stood up to test Jesus. “Teacher,” he asked, “what must I do to inherit eternal life?”
 
