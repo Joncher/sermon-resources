@@ -288,7 +288,7 @@ These first 3 sessions are foundational to go deeper into more robust conversati
 * #### **Amy Black**
 
   * Five Views on The Church and Politics.Considering the attention that many Christian parachurch groups, churches, and individual believers give to politics—and of the varying and sometimes divergent political ideals and aims among them—Five Views on the Church and Politics provides a helpful breakdown of the possible Christian approaches. Readers will find themselves equipped to think more deeply about the relationship between church and state in a way that goes beyond mere policy debates and current campaigns.
-* **PBS: The Choice 2020: Trump vs. Biden**
+* #### **PBS: The Choice 2020: Trump vs. Biden**
 
   * [Trailer](https://www.pbs.org/video/the-choice-2020-trump-v-biden-trailer-uc4cmm/)
   * [Full-Length](https://www.pbs.org/video/the-choice-2020-trump-vs-biden-l0dutq/)
