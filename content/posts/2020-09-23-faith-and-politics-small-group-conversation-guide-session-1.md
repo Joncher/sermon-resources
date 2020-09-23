@@ -51,7 +51,7 @@ Reverend Charlie Drew, seasoned pastor and author of Surprised by Community: Rep
 
 ### Scripture
 
-***Luke 10:25-37***
+***Luke 10:25-37(NIV)***
 
 25 On one occasion an expert in the law stood up to test Jesus. “Teacher,” he asked, “what must I do to inherit eternal life?”
 
