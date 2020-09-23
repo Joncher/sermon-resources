@@ -170,7 +170,7 @@ Sometimes, we might make light of these things and rationalize why it is OK to c
 
 Essential in the discipleship process is the formation of a new core identity. When we accept Jesus as our Lord and Savior, we become children of God (Rom. 8:14-17), and the chief aim of our life is to grow in Christ-likeness (2 Cor. 3:18; 2 Cor. 5:14-21).
 
-Political idolatry forms in us a different core identity, and from that a very different ‘likeness’ emerges. Discipleship becomes distorted as we say that we are Christians but attitudes, words and behaviors begin resembling the messaging of politicians and pundits on the right or the left more than our risen Lord.
+Political idolatry forms in us a different core identity, and from that a very different ‘likeness’ emerges. Discipleship becomes distorted as we say that we are Christians but attitudes, words, and behaviors begin resembling the messaging of politicians and pundits on the right or the left more than our risen Lord.
 
 ### **Marred witness**
 
@@ -238,7 +238,7 @@ These first 3 sessions are foundational to go deeper into more robust conversati
 
 * #### **[VoteSmart.org](https://justfacts.votesmart.org/)**
 
-  #### \- Learn more about current officials, candidates from this non-partisan nonprofit
+  * Learn more about current officials, candidates from this non-partisan nonprofit
 * #### **[Register to vote](https://voterreg.dmv.ny.gov/MotorVoter/)**
 * #### **Voter Registration Deadline**
 
