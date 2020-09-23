@@ -236,7 +236,7 @@ These first 3 sessions are foundational to go deeper into more robust conversati
 
 ### Resources
 
-* #### **[VoteSmart.org](https://justfacts.votesmart.org/)** 
+* #### **[VoteSmart.org](https://justfacts.votesmart.org/)**
 
   #### \- Learn more about current officials, candidates from this non-partisan nonprofit
 * #### **[Register to vote](https://voterreg.dmv.ny.gov/MotorVoter/)**
@@ -255,7 +255,7 @@ These first 3 sessions are foundational to go deeper into more robust conversati
 
   * Early voting runs Oct 24 - Nov 1 at select sites in NYC
   * New Yorkers can find their early voting poll site (and their election day poll site) at <https://findmypollsite.vote.nyc/>
-* #### **[The Center for Christian Civics](http://www.christiancivics.org)** 
+* #### **[The Center for Christian Civics](http://www.christiancivics.org)**
 
   * A Washington DC based non-partisan ministry helping pastors, ministry leaders, and lay people integrate civic stewardship into their community’s program of spiritual formation, and political de-polarization into their vision for witness and evangelism. It offers workshops, Bible studies, podcasts, articles, and recommended readings.
 * #### **Charles Drew**
@@ -263,17 +263,17 @@ These first 3 sessions are foundational to go deeper into more robust conversati
   * [Surprised by Community: Republicans and Democrats in the Same Pew](https://www.amazon.com/Surprised-Community-Republicans-Democrats-Same-ebook/dp/B07WHJPW6Y). Drew suggests practices and ways of thinking that help believers engage in politics while making room for one another when their political convictions differ.
 * #### **John Stott**
 
-  *  [Issues Facing Christians Today--4th edition](https://www.amazon.com/Issues-Facing-Christians-Today-Stott-ebook/dp/B004Q9T3G8/ref=sr_1_1?crid=17MKO6PYS8GYY&dchild=1&keywords=issues+facing+christians+today&qid=1599847589&s=digital-text&sprefix=issues+facing%2Cdigital-text%2C149&sr=1-1) (Zondervan 2006). A thoughtful and practical call to Christian involvement in public life with particular focus on war, creation care, global poverty, human rights, work, business, diversity, sexuality, marriage, abortion, euthanasia, and biotechnology.
+  * [Issues Facing Christians Today--4th edition](https://www.amazon.com/Issues-Facing-Christians-Today-Stott-ebook/dp/B004Q9T3G8/ref=sr_1_1?crid=17MKO6PYS8GYY&dchild=1&keywords=issues+facing+christians+today&qid=1599847589&s=digital-text&sprefix=issues+facing%2Cdigital-text%2C149&sr=1-1) (Zondervan 2006). A thoughtful and practical call to Christian involvement in public life with particular focus on war, creation care, global poverty, human rights, work, business, diversity, sexuality, marriage, abortion, euthanasia, and biotechnology.
 * #### **Michael Wear**
 
   * [Reclaiming Hope](https://www.amazon.com/Reclaiming-Hope-Lessons-Learned-America-ebook/dp/B01CXE9LSW/ref=sr_1_1?dchild=1&keywords=reclaiming+hope&qid=1599847611&s=digital-text&sr=1-1). An illuminating memoir from a Christian who worked on faith-based initiatives in the Obama White House.
-* #### **Eugene Cho** 
+* #### **Eugene Cho**
 
   * [Thou Shalt Not be a Jerk: A Christian’s Guide to Engaging Politics](https://www.amazon.com/Thou-Shalt-Not-Jerk-Christians-ebook/dp/B07WRGTYC6/ref=sr_1_2?crid=2ST7Z5SUL94PE&dchild=1&keywords=thou+shalt+not+be+a+jerk&qid=1599847420&s=digital-text&sprefix=thou+sha%2Cdigital-text%2C144&sr=1-2). Framed in ten commandments for engaging politics, Cho provides pastoral guidance and practical ways for Christians to stay engaged, have integrity, listen to the hurting, and vote their convictions.
-* **Darrell L. Bock[](https://www.amazon.com/How-Would-Jesus-Vote-Political-ebook/dp/B010MHALZO/ref=sr_1_1?crid=1K9JMYVM2L5UW&dchild=1&keywords=how+would+jesus+vote&qid=1599847373&s=digital-text&sprefix=how+would+Jes%2Cdigital-text%2C148&sr=1-1)**
+* **Darrell L. Bock**[](https://www.amazon.com/How-Would-Jesus-Vote-Political-ebook/dp/B010MHALZO/ref=sr_1_1?crid=1K9JMYVM2L5UW&dchild=1&keywords=how+would+jesus+vote&qid=1599847373&s=digital-text&sprefix=how+would+Jes%2Cdigital-text%2C148&sr=1-1)
 
   * [How Would Jesus Vote? Do Your Political Views Really Align with the Bible](https://www.amazon.com/How-Would-Jesus-Vote-Political-ebook/dp/B010MHALZO/ref=sr_1_1?crid=1K9JMYVM2L5UW&dchild=1&keywords=how+would+jesus+vote&qid=1599847373&s=digital-text&sprefix=how+would+Jes%2Cdigital-text%2C148&sr=1-1). Examining some of the most contentious political topics of our time in light of Scripture and the teachings of Jesus, the end goal of this book is not to promote a particular point of view but to objectively portray what the Bible says on political and cultural topics.
-* #### **M. Daniel Carroll R** 
+* #### **M. Daniel Carroll R**
 
   * [The Bible and Borders: Hearing God’s Word on Immigration](https://www.amazon.com/Bible-Borders-Hearing-Gods-Immigration/dp/1587434458). Carroll explores the surprising amount of material in the Old and New Testaments that deals with migration and shows how this topic is fundamental to the message of the Bible and how it affects our understanding of God and the mission of the church.
 * #### **Abraham George and Nikki A. Toyama-Szeto**
@@ -288,3 +288,7 @@ These first 3 sessions are foundational to go deeper into more robust conversati
 * #### **Amy Black**
 
   * Five Views on The Church and Politics.Considering the attention that many Christian parachurch groups, churches, and individual believers give to politics—and of the varying and sometimes divergent political ideals and aims among them—Five Views on the Church and Politics provides a helpful breakdown of the possible Christian approaches. Readers will find themselves equipped to think more deeply about the relationship between church and state in a way that goes beyond mere policy debates and current campaigns.
+* **PBS: The Choice 2020: Trump vs. Biden**
+
+  * [Trailer](https://www.pbs.org/video/the-choice-2020-trump-v-biden-trailer-uc4cmm/)
+  * [Full-Length](https://www.pbs.org/video/the-choice-2020-trump-vs-biden-l0dutq/)
