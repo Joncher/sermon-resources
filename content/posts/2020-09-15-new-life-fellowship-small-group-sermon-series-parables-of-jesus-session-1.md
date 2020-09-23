@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "New Life Fellowship Small Group Sermon Series Parables Of Jesus - Session 1 "
+title: "Small Group Sermon Series Parables Of Jesus - Session 1 "
 status: Published
 date: 2020-09-15
 featuredImage: https://ucarecdn.com/6c78980e-17d3-402b-bbd2-eac09af3bfc8/
@@ -12,13 +12,11 @@ categories:
 meta:
   title: Sermon
 ---
-### Part 1 of Sermon Series
+**Sermon:** [The Friend at Midnight](https://newlife.nyc/sermon-archive/?enmse=1&enmse_sid=4&enmse_mid=13)
 
-### Sermon: [The Friend at Midnight](https://newlife.nyc/sermon-archive/?enmse=1&enmse_sid=4&enmse_mid=13)
+**Speaker:** Rich Villodas
 
-### Speaker: Rich Villodas
-
-### Date: August 13, 2017
+**Date:** August 13, 2017
 
 <hr/>
 
@@ -68,15 +66,9 @@ One of the greatest indications of our spiritual vitality is our relationship to
 
 <iframe src="https://streamable.com/e/b1bly7?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
+Prayer is not about annoying God until you get God’s attention. The focus in this story is not the shameless persistence of the neighbor but rather his willingness to risk his reputation, shamelessly confessing what he doesn’t have. How does this shift in perspective affect how you see prayer? How does “shameless” mark your own prayer life?
 
-
-
-
-1. Prayer is not about annoying God until you get God’s attention. The focus in this story is not the shameless persistence of the neighbor but rather his willingness to risk his reputation, shamelessly confessing what he doesn’t have. How does this shift in perspective affect how you see prayer? How does “shameless” mark your own prayer life?
-
-   * Shameless: Offensively bold behavior; assurance, accompanied with a disregard of the presence or opinion of others.
-
-
+1. * Shameless: Offensively bold behavior; assurance, accompanied with a disregard of the presence or opinion of others.
 2. What challenges do you experience in coming to God shamelessly?
 
 <hr/>
