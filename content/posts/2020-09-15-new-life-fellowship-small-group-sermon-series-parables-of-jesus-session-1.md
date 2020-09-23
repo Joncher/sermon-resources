@@ -66,19 +66,19 @@ One of the greatest indications of our spiritual vitality is our relationship to
 
 #### Group Discussion Questions
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-dye6oBgs7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://streamable.com/e/b1bly7?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 Prayer is not about annoying God until you get God’s attention. The focus in this story is not the shameless persistence of the neighbor but rather his willingness to risk his reputation, shamelessly confessing what he doesn’t have. How does this shift in perspective affect how you see prayer? How does “shameless” mark your own prayer life?
 
 1. * Shameless: Offensively bold behavior; assurance, accompanied with a disregard of the presence or opinion of others.
 2. What challenges do you experience in coming to God shamelessly?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-dye6oBgs7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://streamable.com/e/806tjq?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 3. Prayer isn’t about getting God to do what we want but a means of relating to God as we truly are. Poor, needy, lost, dead. The way we pray is to shape the way we live. Where do you feel poor, needy, lost, or dead?
 4. What burdens of the false self could be lifted if you came with shameless acceptance of how poor, needy, lost, or dead you are?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-dye6oBgs7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://streamable.com/e/b1ai7d?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 5. Rather than the common misperception that v. 9 is a formula to ask God repeatedly for what we want, this parable of Jesus points to how God gives us something much greater - the Holy Spirit - when we come to God in prayer (in the truth of our poverty, need, lostness and deadness). How does this confirm, shift, or stretch your views of prayer?
 6. How is receiving the Holy Spirit greater and what we truly need than getting specific answers to our requests?
