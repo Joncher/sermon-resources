@@ -16,8 +16,6 @@ Religion and politics are often said to be the two topics to steer away from in 
 
 Our hope is that this three-session guide will help your small group navigate the tensions of political or polarizing conversations with biblical principles.
 
-
-
 **Guidelines for sharing and praying together**
 
 * When sharing, speak in the “I”
@@ -27,7 +25,7 @@ Our hope is that this three-session guide will help your small group navigate th
 * Trust and learn from silence. (When tension or conflict arises, that is normal. Welcome it as a moment for silent reflection.)
 * Observe confidentiality.
 
-  <hr/>
+<hr/>
 
 ### SESSION 1 Not Withdrawing - Engaged with Civility
 
