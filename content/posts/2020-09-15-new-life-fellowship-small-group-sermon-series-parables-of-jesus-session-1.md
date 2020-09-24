@@ -4,9 +4,15 @@ title: "Small Group Sermon Series Parables Of Jesus - Session 1 "
 status: Published
 date: 2020-09-15
 featuredImage: https://ucarecdn.com/6c78980e-17d3-402b-bbd2-eac09af3bfc8/
-excerpt: >
-  This small group curriculum is taken from the New Life Parables of Jesus
-  sermon series in 2017.
+excerpt: >-
+  **Sermon:** [The Friend at
+  Midnight](https://newlife.nyc/sermon-archive/?enmse=1&enmse_sid=4&enmse_mid=13)
+
+
+  **Speaker:** Rich Villodas
+
+
+  **Date:** August 13, 2017
 categories:
   - category: Sermon Studies
 meta:
@@ -20,7 +26,9 @@ meta:
 
 <hr/>
 
-**Scripture** (Luke 11:1-13, NIV)
+### Scripture 
+
+***Luke 11:1-13, \[NIV]***
 
 1 One day Jesus was praying in a certain place. When he finished, one of his disciples said to him, “Lord, teach us to pray, just as John taught his disciples.”
 
@@ -48,13 +56,13 @@ And lead us not into temptation.’”
 
 <hr/>
 
-**Introduction**
+### Introduction
 
 One of the greatest indications of our spiritual vitality is our relationship to God in prayer. As pastor and theologian Tim Keller puts it, “The infallible test of spiritual integrity, Jesus says, is your private prayer life.” The Christian life is impossible to live without a deep and consistent commitment to prayer. This parable provides us with a way to center, ground, and energize us to be people who connect to God in prayer.
 
 <hr/>
 
-#### Opening Questions
+### Opening Questions
 
 * How is your prayer life? Is there any aspect of it you want to grow in or see change?
 * What does your prayer life reveal about your relationship with God? One way is to describe it in terms of what characterizes any relationship - frequency of communication, content, experience, etc.
@@ -62,7 +70,7 @@ One of the greatest indications of our spiritual vitality is our relationship to
 
 <hr/>
 
-#### Group Discussion Questions
+### Group Discussion Questions
 
 <iframe src="https://streamable.com/e/b1bly7?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
@@ -87,7 +95,7 @@ Prayer is not about annoying God until you get God’s attention. The focus in t
 
 <hr/>
 
-#### Personal Application
+### Personal Application
 
 1. What are you taking away from this study?
 2. How do you want your relationship with God to grow? What is getting in the way of growth?
@@ -96,7 +104,7 @@ Note: Acknowledging a lack of desire for change is also valid. There can be seas
 
 <hr/>
 
-#### Pray Together
+### Pray Together
 
 * Take some time to worship and name specific attributes you want to praise God for.
 
