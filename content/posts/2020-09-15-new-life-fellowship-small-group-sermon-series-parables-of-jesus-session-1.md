@@ -1,28 +1,34 @@
 ---
 template: SinglePost
-title: "New Life Fellowship Small Group Sermon Series Parables Of Jesus - Session 1 "
+title: "Small Group Sermon Series Parables Of Jesus - Session 1 "
 status: Published
 date: 2020-09-15
 featuredImage: https://ucarecdn.com/6c78980e-17d3-402b-bbd2-eac09af3bfc8/
-excerpt: >
-  This small group curriculum is taken from the New Life Parables of Jesus
-  sermon series in 2017.
+excerpt: >-
+  **Sermon:** [The Friend at
+  Midnight](https://newlife.nyc/sermon-archive/?enmse=1&enmse_sid=4&enmse_mid=13)
+
+
+  **Speaker:** Rich Villodas
+
+
+  **Date:** August 13, 2017
 categories:
   - category: Sermon Studies
 meta:
   title: Sermon
 ---
-### Part 1 of Sermon Series
+**Sermon:** [The Friend at Midnight](https://newlife.nyc/sermon-archive/?enmse=1&enmse_sid=4&enmse_mid=13)
 
-### Sermon: [The Friend at Midnight](https://newlife.nyc/sermon-archive/?enmse=1&enmse_sid=4&enmse_mid=13)
+**Speaker:** Rich Villodas
 
-### Speaker: Rich Villodas
-
-### Date: August 13, 2017
+**Date:** August 13, 2017
 
 <hr/>
 
-**Scripture** (Luke 11:1-13, NIV)
+### Scripture
+
+#### *Luke 11:1-13, \[NIV]*
 
 1 One day Jesus was praying in a certain place. When he finished, one of his disciples said to him, “Lord, teach us to pray, just as John taught his disciples.”
 
@@ -50,13 +56,13 @@ And lead us not into temptation.’”
 
 <hr/>
 
-**Introduction**
+### Introduction
 
 One of the greatest indications of our spiritual vitality is our relationship to God in prayer. As pastor and theologian Tim Keller puts it, “The infallible test of spiritual integrity, Jesus says, is your private prayer life.” The Christian life is impossible to live without a deep and consistent commitment to prayer. This parable provides us with a way to center, ground, and energize us to be people who connect to God in prayer.
 
 <hr/>
 
-#### Opening Questions
+### Opening Questions
 
 * How is your prayer life? Is there any aspect of it you want to grow in or see change?
 * What does your prayer life reveal about your relationship with God? One way is to describe it in terms of what characterizes any relationship - frequency of communication, content, experience, etc.
@@ -64,28 +70,32 @@ One of the greatest indications of our spiritual vitality is our relationship to
 
 <hr/>
 
-#### Group Discussion Questions
+### Group Discussion Questions
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-dye6oBgs7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://streamable.com/e/b1bly7?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 Prayer is not about annoying God until you get God’s attention. The focus in this story is not the shameless persistence of the neighbor but rather his willingness to risk his reputation, shamelessly confessing what he doesn’t have. How does this shift in perspective affect how you see prayer? How does “shameless” mark your own prayer life?
 
 1. * Shameless: Offensively bold behavior; assurance, accompanied with a disregard of the presence or opinion of others.
 2. What challenges do you experience in coming to God shamelessly?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-dye6oBgs7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr/>
+
+<iframe src="https://streamable.com/e/806tjq?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 3. Prayer isn’t about getting God to do what we want but a means of relating to God as we truly are. Poor, needy, lost, dead. The way we pray is to shape the way we live. Where do you feel poor, needy, lost, or dead?
 4. What burdens of the false self could be lifted if you came with shameless acceptance of how poor, needy, lost, or dead you are?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-dye6oBgs7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr/>
+
+<iframe src="https://streamable.com/e/b1ai7d?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 5. Rather than the common misperception that v. 9 is a formula to ask God repeatedly for what we want, this parable of Jesus points to how God gives us something much greater - the Holy Spirit - when we come to God in prayer (in the truth of our poverty, need, lostness and deadness). How does this confirm, shift, or stretch your views of prayer?
 6. How is receiving the Holy Spirit greater and what we truly need than getting specific answers to our requests?
 
 <hr/>
 
-#### Personal Application
+### Personal Application
 
 1. What are you taking away from this study?
 2. How do you want your relationship with God to grow? What is getting in the way of growth?
@@ -94,7 +104,7 @@ Note: Acknowledging a lack of desire for change is also valid. There can be seas
 
 <hr/>
 
-#### Pray Together
+### Pray Together
 
 * Take some time to worship and name specific attributes you want to praise God for.
 
