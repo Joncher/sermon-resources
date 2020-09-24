@@ -31,11 +31,7 @@ Our hope is that this three-session guide will help your small group navigate th
 
 ### **Scripture**
 
-
-
 ***2 Corinthians 5:16-21(NIV)***
-
-
 
 16 So from now on we regard no one from a worldly point of view. Though we once regarded Christ in this way, we do so no longer. 
 
@@ -55,11 +51,7 @@ Our hope is that this three-session guide will help your small group navigate th
 
 One of the curious things about Jesus is that he asks a lot of questions. One scholar records Jesus as asking 307 questions and being asked 183 of which he answers 3. Though Jesus as the Son of God, clearly had answers for all, he chose to ask questions to promote discovery, dignify what people had to say, and engage people in dialogue rather than a monologue. On one occasion in Mark 10, we read about a blind man named Bartimaeus, who cried out seeking to catch Jesus’ attention. It would seem obvious to all what he wanted, but when Bartimaeus approaches Jesus, he is asked by the Son of God “What do you want me to do for you?” He dignifies a social nobody and waits to hear his answer.
 
-
-
 Questions have degrees of impact. There are good questions that provoke discovery and learning. There are also unhelpful questions that are leading, asked with expectations of a given answer. These questions often assume one knows how another person will answer. However, there are good and even powerful questions that come out of a posture of curiosity - truly desiring to know what the other might share. These arise out of a knowledge that each person has value and that the words they choose cannot be taken for granted.
-
-
 
 It’s easy to ask questions of someone you are confident you will like or want to know better. It can be much more challenging to be curious about a worldview or belief that is in opposition to your own viewpoint.
 
@@ -77,15 +69,11 @@ It’s easy to ask questions of someone you are confident you will like or want 
 
 If you had a listening conversation as suggested in the last session - how did it go?
 
-
-
 1. What are common ways of seeing or categorizing people that you see in politics today?
 2. What might it look like to not regard any single person or party from a “worldly point of view” (v.16)?
 3. How can Christians hold a point of view and yet be ministers of reconciliation? What can we learn from Jesus’ life?
 
 <hr/>
-
-
 
 ### **Emotionally Healthy Adults**
 
@@ -100,6 +88,8 @@ Becoming an emotional adult is important in order to move towards curiosity and 
 * I accurately assess my own limits, strengths, and weaknesses and am able to freely discuss them with others
 * I am deeply in tune with my own emotional world and able to enter into the feelings, needs, and concerns of others without losing myself
 * I have the capacity to resolve conflict maturely and negotiate solutions that consider the perspectives of others
+
+###### ©Scazzero, Peter. Emotionally Healthy Spirituality: It's Impossible to Be Spiritually Mature, While Remaining Emotionally Immature (excerpts from pp. 169-183). Zondervan.
 
 <hr/>
 
