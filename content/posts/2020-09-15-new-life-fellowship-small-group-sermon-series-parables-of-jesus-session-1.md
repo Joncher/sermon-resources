@@ -26,9 +26,9 @@ meta:
 
 <hr/>
 
-### Scripture 
+### Scripture
 
-***Luke 11:1-13, \[NIV]***
+#### *Luke 11:1-13, \[NIV]*
 
 1 One day Jesus was praying in a certain place. When he finished, one of his disciples said to him, “Lord, teach us to pray, just as John taught his disciples.”
 
