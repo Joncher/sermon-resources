@@ -71,6 +71,8 @@ export default ({ children, meta, title }) => {
               {...data.settingsYaml}
             />
 
+            <Nav subNav={subNav} />
+
             <Fragment>{children}</Fragment>
 
           </Fragment>
