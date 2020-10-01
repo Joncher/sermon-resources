@@ -3,7 +3,6 @@ import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
 import Meta from './Meta'
 import Nav from './Nav'
-import Footer from './Footer'
 
 import 'modern-normalize/modern-normalize.css'
 import './globalStyles.css'
@@ -76,7 +75,6 @@ export default ({ children, meta, title }) => {
 
             <Fragment>{children}</Fragment>
 
-            <Footer />
           </Fragment>
         )
       }}
