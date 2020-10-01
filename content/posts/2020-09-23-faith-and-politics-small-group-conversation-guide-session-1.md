@@ -129,7 +129,9 @@ Lord, it’s not that we all need to have the exact same opinion or come to the 
 
 (Edited from [Prayer for the Political and Election Season | Grace Downtown](https://downtown.gracedc.net/latest/blog/prayer-for-the-political-and-election-season))
 
-## **RESOURCE**
+<hr/>
+
+## **Resource**
 
 ### How Do Christians Fit Into the Two-Party System? They Don’t
 
