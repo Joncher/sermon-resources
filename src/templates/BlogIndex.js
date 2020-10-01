@@ -44,51 +44,50 @@ export const BlogIndexTemplate = ({
   enableSearch = true,
   contentType
 }) => (
-  <Location>
-    {({ location }) => {
-      let filteredPosts =
-        posts && !!posts.length
-          ? byCategory(byDate(posts), title, contentType)
-          : []
+    <Location>
+      {({ location }) => {
+        let filteredPosts =
+          posts && !!posts.length
+            ? byCategory(byDate(posts), title, contentType)
+            : []
 
-      let queryObj = location.search.replace('?', '')
-      queryObj = qs.parse(queryObj)
+        let queryObj = location.search.replace('?', '')
+        queryObj = qs.parse(queryObj)
 
-      if (enableSearch && queryObj.s) {
-        const searchTerm = queryObj.s.toLowerCase()
-        filteredPosts = filteredPosts.filter(post =>
-          post.frontmatter.title.toLowerCase().includes(searchTerm)
+        if (enableSearch && queryObj.s) {
+          const searchTerm = queryObj.s.toLowerCase()
+          filteredPosts = filteredPosts.filter(post =>
+            post.frontmatter.title.toLowerCase().includes(searchTerm)
+          )
+        }
+
+        return (
+          <main className="Blog">
+            <PageHeader
+              title={title}
+              backgroundImage={featuredImage}
+            />
+
+            {!!postCategories.length && (
+              <section className="section thin">
+                <div className="container">
+                  <PostCategoriesNav enableSearch categories={postCategories} />
+                </div>
+              </section>
+            )}
+
+            {!!posts.length && (
+              <section className="section">
+                <div className="container">
+                  <PostSection posts={filteredPosts} />
+                </div>
+              </section>
+            )}
+          </main>
         )
-      }
-
-      return (
-        <main className="Blog">
-          <PageHeader
-            title={title}
-            subtitle={subtitle}
-            backgroundImage={featuredImage}
-          />
-
-          {!!postCategories.length && (
-            <section className="section thin">
-              <div className="container">
-                <PostCategoriesNav enableSearch categories={postCategories} />
-              </div>
-            </section>
-          )}
-
-          {!!posts.length && (
-            <section className="section">
-              <div className="container">
-                <PostSection posts={filteredPosts} />
-              </div>
-            </section>
-          )}
-        </main>
-      )
-    }}
-  </Location>
-)
+      }}
+    </Location>
+  )
 
 // Export Default BlogIndex for front-end
 const BlogIndex = ({ data: { page, posts, postCategories } }) => (
