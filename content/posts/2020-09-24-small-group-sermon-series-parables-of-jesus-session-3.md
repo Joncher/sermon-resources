@@ -28,13 +28,9 @@ Date: July 2, 2017
 
 #### ***Matthew 20:1-16 \[NIV]***
 
-
-
 1 “For the kingdom of heaven is like a landowner who went out early in the morning to hire workers for his vineyard. 
 
 2 He agreed to pay them a denarius for the day and sent them into his vineyard.
-
-
 
 3 “About nine in the morning he went out and saw others standing in the marketplace doing nothing. 
 
@@ -42,25 +38,15 @@ Date: July 2, 2017
 
 5 So they went.
 
-
-
 “He went out again about noon and about three in the afternoon and did the same thing. 
 
 6 About five in the afternoon he went out and found still others standing around. He asked them, ‘Why have you been standing here all day long doing nothing?’
 
-
-
 7 “‘Because no one has hired us,’ they answered.
-
-
 
 “He said to them, ‘You also go and work in my vineyard.’
 
-
-
 8 “When evening came, the owner of the vineyard said to his foreman, ‘Call the workers and pay them their wages, beginning with the last ones hired and going on to the first.’
-
-
 
 9 “The workers who were hired about five in the afternoon came and each received a denarius. 
 
@@ -70,15 +56,11 @@ Date: July 2, 2017
 
 12 ‘These who were hired last worked only one hour,’ they said, ‘and you have made them equal to us who have borne the burden of the work and the heat of the day.’
 
-
-
 13 “But he answered one of them, ‘I am not being unfair to you, friend. Didn’t you agree to work for a denarius? 
 
 14 Take your pay and go. I want to give the one who was hired last the same as I gave you. 
 
 15 Don’t I have the right to do what I want with my own money? Or are you envious because I am generous?’
-
-
 
 16 “So the last will be first, and the first will be last.”
 
@@ -101,8 +83,6 @@ Stories have a way of helping us grasp a point in a way that a direct statement 
 <hr/>
 
 <iframe src="https://streamable.com/e/fvs2dn?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-
-
 
 3. The landowner repeatedly returns to the marketplace to hire more workers though he does not necessarily have need of them. This story depicts a picture of a God who continues to search, reach out and seeks us out even when we’re lost. What draws or repels you about this picture of the kingdom of God?
 
@@ -132,17 +112,17 @@ Stories have a way of helping us grasp a point in a way that a direct statement 
 
 8. How does the church in New Providence, NJ portray the same heart as that of the landowner in Jesus’ story?
 
-<hr/>
 
-### Application
+
+#### Application
 
 1. What is one step you can take personally or as a group to seek out (like the landowner) and build relationships with those who do not know Jesus? This can be something the group can pray about to discern a next step.
 2. If reaching out to someone who is not a Christian is challenging, take some time to identify what makes you uncomfortable and to pray about it. What is one small step you can take towards stepping out in faith?
-3. Sometimes our culture can influence us more than we realize. What dreams and goals you are working towards reflect more of the “American dream” than the gospel?
+3. Sometimes our culture can influence us more than we realize. What dreams and goals are you working towards to reflect more of the “American dream” than the gospel?
 
-<hr/>
 
-### Pray Together
+
+#### Pray Together
 
 * Name people you know personally who don’t know Jesus that the group can pray for together. There is power in prayer!
 * Follow up on any pending prayer requests from the previous session and share any new prayer requests.
