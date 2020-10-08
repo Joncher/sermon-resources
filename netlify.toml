@@ -1,5 +1,7 @@
-[headers.values]
-  X-Frame-Options = "SAMEORIGIN"
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
 [build]
   publish = "public"
   command = "npm run build"
