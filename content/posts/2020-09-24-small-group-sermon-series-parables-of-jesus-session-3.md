@@ -16,11 +16,11 @@ excerpt: >-
 categories:
   - category: Sermon Studies
 ---
-Sermon: [Two Surprising Ways of the Kingdom: The Vineyard](https://newlife.nyc/sermon-archive/?enmse=1&enmse_sid=4&enmse_mid=24)
+**Sermon**: [Two Surprising Ways of the Kingdom: The Vineyard](https://newlife.nyc/sermon-archive/?enmse=1&enmse_sid=4&enmse_mid=24)
 
-Speaker: Greg Jao
+**Speaker**: Greg Jao
 
-Date: July 2, 2017
+**Date**: July 2, 2017
 
 <hr/>
 
