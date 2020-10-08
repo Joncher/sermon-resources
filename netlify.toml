@@ -4,16 +4,8 @@
 [build.environment]
   YARN_VERSION = "1.3.2"
   YARN_FLAGS = "--no-ignore-optional"
-
 [[headers]]
   for = "/*"
   [headers.values]
-    X-Frame-Options = ""
-    X-XSS-Protection = "1; mode=block"
-
-    #  Multi-value headers are expressed with multi-line strings
-	cache-control = '''
-	max-age=0,
-	no-cache,
-	no-store,
-	must-revalidate'''
+    X-Frame-Options = "allow-from *"
+    Access-Control-Allow-Origin = "*"
