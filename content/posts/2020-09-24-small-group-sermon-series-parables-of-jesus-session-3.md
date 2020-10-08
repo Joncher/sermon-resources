@@ -75,9 +75,6 @@ Stories have a way of helping us grasp a point in a way that a direct statement 
 ### Opening Questions
 
 1. What stories have been retold in your family that played an important role in shaping your identity?
-
-
-
 2. Where do you see the “guiding principle” of fairness pop up in your life - whether at home, work or the world around you?
 
 <hr/>
@@ -90,16 +87,8 @@ Stories have a way of helping us grasp a point in a way that a direct statement 
 
 <iframe src="https://streamable.com/e/tgbq3m?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
-
-
 4. So often cultural norms can seep into our lives as Christians in subtle ways. Where in your Christian journey have you seen the view of meritocracy (of earning value by providing value or rewarding those who show ability or talent) at work in yourself or your relationships with others?
-
-
-
 5. What would it look like if our story as a congregation, as a people and the spheres of influence that we have, was an economy of generosity and grace rather than merely what you earn or deserve?
-
-
-
 6. If God is a landowner like the one pictured, we are freed to also open our hands and be generous and gracious to others because we trust in God’s generous ability to give rather than our ability to produce. Where do you find your hands closing to hold back? Where is it hard for you to trust God’s generosity and ability to give?
 
 <hr/>
@@ -107,22 +96,15 @@ Stories have a way of helping us grasp a point in a way that a direct statement 
 <iframe src="https://streamable.com/e/7jdiek?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 7. The longer people attend a church, it can be easy to begin taking on an insider mentality. Is there anyone you look around at and wonder “What are they doing here at church?”
-
-
-
 8. How does the church in New Providence, NJ portray the same heart as that of the landowner in Jesus’ story?
 
-
-
-#### Application
+### Application
 
 1. What is one step you can take personally or as a group to seek out (like the landowner) and build relationships with those who do not know Jesus? This can be something the group can pray about to discern a next step.
 2. If reaching out to someone who is not a Christian is challenging, take some time to identify what makes you uncomfortable and to pray about it. What is one small step you can take towards stepping out in faith?
 3. Sometimes our culture can influence us more than we realize. What dreams and goals are you working towards to reflect more of the “American dream” than the gospel?
 
-
-
-#### Pray Together
+### Pray Together
 
 * Name people you know personally who don’t know Jesus that the group can pray for together. There is power in prayer!
 * Follow up on any pending prayer requests from the previous session and share any new prayer requests.
