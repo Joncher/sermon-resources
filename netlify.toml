@@ -5,8 +5,8 @@
   YARN_VERSION = "1.3.2"
   YARN_FLAGS = "--no-ignore-optional"
 [[headers]]
-  for = "/*"
+  for = "https://infallible-hamilton-4b06e8.netlify.app/*"
   [headers.values]
     X-Frame-Options = "same-origin"
     Access-Control-Allow-Origin = "*"
-    Content-Security-Policy = "default-src 'self' https://infallible-hamilton-4b06e8.netlify.app/"
+   
