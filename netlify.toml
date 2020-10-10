@@ -7,5 +7,5 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    X-Frame-Options = "allow-from *"
+    X-Frame-Options = "deny"
     Access-Control-Allow-Origin = "*"
