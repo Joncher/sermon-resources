@@ -7,6 +7,6 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    X-Frame-Options = "allow from https://infallible-hamilton-4b06e8.netlify.app/components"
+    X-Frame-Options = "sameorigin"
     Access-Control-Allow-Origin = "*"
-    Content-Security-Policy = "frame-ancestors 'self' https://infallible-hamilton-4b06e8.netlify.app/components"
+    Content-Security-Policy = "frame-ancestors 'self' https://infallible-hamilton-4b06e8.netlify.app"
