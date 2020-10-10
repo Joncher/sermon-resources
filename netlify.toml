@@ -7,5 +7,5 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    X-Frame-Options = "deny"
+    X-Frame-Options = "allow from https://infallible-hamilton-4b06e8.netlify.app/"
     Access-Control-Allow-Origin = "*"
