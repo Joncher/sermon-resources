@@ -22,6 +22,8 @@ categories:
 
 **Date**: July 2, 2017
 
+**[Download PDF Here](https://drive.google.com/file/d/19SIByBXYwKqoUgKFyTSxNk7M1A23UzhO/view?usp=sharing)**
+
 <hr/>
 
 ### Scripture
