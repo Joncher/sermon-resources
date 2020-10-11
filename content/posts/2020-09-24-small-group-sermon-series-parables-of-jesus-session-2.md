@@ -19,6 +19,8 @@ categories:
 
 **Date:** August 6, 2017
 
+**[Download PDF Here](https://drive.google.com/file/d/1vE5uQeuDa1d929wMvk_ktmrjx_N7i_6g/view?usp=sharing)**
+
 <hr/>
 
 ### Scripture
