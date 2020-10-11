@@ -24,6 +24,8 @@ meta:
 
 **Date:** August 13, 2017
 
+**[Download PDF Here](https://drive.google.com/file/d/1vl_FjMbNNT_LJHxLodj4CoOR92j3oRTF/view?usp=sharing)**
+
 <hr/>
 
 ### Scripture
