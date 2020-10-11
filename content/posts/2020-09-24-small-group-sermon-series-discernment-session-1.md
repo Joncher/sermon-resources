@@ -22,6 +22,8 @@ categories:
 
 **Date:** January 6, 2019
 
+**[Download PDF Here](https://drive.google.com/file/d/1oMKm-Bqt4AIsDoE9VQi5pNk4okpZsCoj/view?usp=sharing)**
+
 <hr/>
 
 ### Scripture
