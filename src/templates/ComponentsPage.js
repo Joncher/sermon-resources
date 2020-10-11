@@ -29,9 +29,7 @@ export const ComponentsPageTemplate = ({
         subtitle={subtitle}
         backgroundImage={featuredImage}
       />
-      <iframe src="https://infallible-hamilton-4b06e8.netlify.app/blog/" height="700" width="80%">
 
-      </iframe>
     </main>
   )
 
