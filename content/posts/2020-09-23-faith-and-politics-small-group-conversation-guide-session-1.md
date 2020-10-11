@@ -27,7 +27,7 @@ Our hope is that this three-session guide will help your small group navigate th
 
 <hr/>
 
-### SESSION 1 Not Withdrawing - Engaged with Civility
+### Session 1 Not Withdrawing - Engaged with Civility
 
 ### Introduction
 
