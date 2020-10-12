@@ -3,7 +3,7 @@ template: SinglePost
 title: "Small Group Sermon Series Parables Of Jesus - Session 1 "
 status: Published
 date: 2020-09-22
-featuredImage: https://ucarecdn.com/6c78980e-17d3-402b-bbd2-eac09af3bfc8/
+featuredImage: https://ucarecdn.com/d2360650-5525-4af7-81c5-aed6bf1c3dd8/
 excerpt: >-
   **Sermon:** [The Friend at
   Midnight](https://newlife.nyc/sermon-archive/?enmse=1&enmse_sid=4&enmse_mid=13)
