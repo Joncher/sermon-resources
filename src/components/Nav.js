@@ -1,11 +1,14 @@
 import React, { Component } from 'react'
-import { Location } from '@reach/router'
+import { Location, navigate } from '@reach/router'
 import { Link } from 'gatsby'
 import { Menu, X } from 'react-feather'
 import Logo from './Logo'
 
 import './Nav.css'
 
+function goBack() {
+
+}
 export class Navigation extends Component {
   state = {
     active: false,
@@ -26,6 +29,7 @@ export class Navigation extends Component {
       activeSubNav: this.state.activeSubNav === subNav ? false : subNav
     })
 
+
   render() {
     const { active } = this.state,
       { subNav } = this.props,
@@ -44,9 +48,9 @@ export class Navigation extends Component {
     return (
       <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
         <div className="Nav--Container container">
-          <Link to="/" onClick={this.handleLinkClick}>
+          <a href={"https://newlife.nyc/"}>
             <Logo />
-          </Link>
+          </a>
           <div className="Nav--Links">
             <div
               className={`Nav--Group ${this.state.activeSubNav === 'posts' ? 'active' : ''
@@ -86,7 +90,7 @@ export class Navigation extends Component {
             {active ? <X /> : <Menu />}
           </button>
         </div>
-      </nav>
+      </nav >
     )
   }
 }
