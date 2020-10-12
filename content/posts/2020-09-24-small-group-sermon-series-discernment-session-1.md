@@ -2,7 +2,7 @@
 template: SinglePost
 title: Small Group Sermon Series Discernment - Session 1
 status: Published
-date: 2020-09-26
+date: 2020-10-08
 featuredImage: https://ucarecdn.com/41781620-4d03-431d-902b-2e81912c6f84/
 excerpt: >-
   **Sermon:** [Discovering God’s Will For Your
