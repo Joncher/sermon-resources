@@ -2,7 +2,7 @@
 template: SinglePost
 title: Small Group Sermon Series Parables Of Jesus - Session 3
 status: Published
-date: 2020-09-23
+date: 2020-09-22
 featuredImage: https://ucarecdn.com/7449d5e1-effc-487f-b4d6-30c325d2ab95/
 excerpt: >-
   Sermon: [Two Surprising Ways of the Kingdom: The
