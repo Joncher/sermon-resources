@@ -3,7 +3,7 @@ template: SinglePost
 title: Small Group Sermon Series Parables Of Jesus - Session 2
 status: Published
 date: 2020-09-21
-featuredImage: https://ucarecdn.com/e3a60ebd-e7fb-4cc0-aeb7-813140a017fe/
+featuredImage: https://ucarecdn.com/2a5f8e55-8337-4498-a15d-62fe3d4b9d82/
 excerpt: |-
   Sermon: A Tale of Two Sons
 
