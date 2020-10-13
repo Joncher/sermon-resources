@@ -2,7 +2,7 @@
 template: SinglePost
 title: Faith and Politics Small Group Conversation Guide - Session 1
 status: Published
-date: 2020-09-23
+date: 2020-09-25
 featuredImage: https://ucarecdn.com/f95348c5-7958-42ab-babe-035fefe65c9a/
 excerpt: Religion and politics are often said to be the two topics to steer away
   from in conversation. The prospect of having political conversations at church

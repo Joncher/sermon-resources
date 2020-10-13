@@ -2,7 +2,7 @@
 template: SinglePost
 title: Small Group Sermon Series Discernment - Session 3
 status: Published
-date: 2020-10-08
+date: 2020-09-30
 featuredImage: https://ucarecdn.com/574faafc-d5a4-42c2-b222-88ebb7575ed2/
 excerpt: >-
   **Sermon:** [Prudence as a Way of Discovering God’s

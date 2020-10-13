@@ -2,8 +2,8 @@
 template: SinglePost
 title: Small Group Sermon Series Parables Of Jesus - Session 3
 status: Published
-date: 2020-09-22
-featuredImage: https://ucarecdn.com/7449d5e1-effc-487f-b4d6-30c325d2ab95/
+date: 2020-09-01
+featuredImage: https://ucarecdn.com/f02c8dee-8cc6-4e79-9997-261b4977a0ba/
 excerpt: >-
   Sermon: [Two Surprising Ways of the Kingdom: The
   Vineyard](https://newlife.nyc/sermon-archive/?enmse=1&enmse_sid=4&enmse_mid=24)
