@@ -9,6 +9,7 @@ import BackgroundVideo from '../components/BackgroundVideo'
 import Gallery from '../components/Gallery'
 import Popup from '../components/Popup'
 
+
 // Export Template for use in CMS preview
 export const ComponentsPageTemplate = ({
   title,

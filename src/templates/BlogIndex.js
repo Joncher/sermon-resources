@@ -33,7 +33,6 @@ export const byCategory = (posts, title, contentType) => {
     post.categories.filter(cat => cat.category === title).length
   return isCategory ? posts.filter(byCategory) : posts
 }
-
 // Export Template for use in CMS preview
 export const BlogIndexTemplate = ({
   title,

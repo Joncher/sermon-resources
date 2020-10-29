@@ -48,7 +48,7 @@ export class Navigation extends Component {
     return (
       <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
         <div className="Nav--Container container">
-          <a href={"https://newlife.nyc/"}>
+          <a href={"https://newlife.nyc/groups"}>
             <Logo />
           </a>
           <div className="Nav--Links">

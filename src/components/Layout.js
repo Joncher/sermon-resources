@@ -7,6 +7,7 @@ import Nav from './Nav'
 import 'modern-normalize/modern-normalize.css'
 import './globalStyles.css'
 
+
 export default ({ children, meta, title }) => {
   return (
     <StaticQuery
@@ -59,7 +60,6 @@ export default ({ children, meta, title }) => {
               <link rel="dns-prefetch" href="https://ucarecdn.com" />
               {/* Add font link tags here */}
             </Helmet>
-
             <Meta
               googleTrackingId={googleTrackingId}
               absoluteImageUrl={
