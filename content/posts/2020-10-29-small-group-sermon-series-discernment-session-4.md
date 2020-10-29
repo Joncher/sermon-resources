@@ -22,7 +22,7 @@ categories:
 
 **Date:** Febuary 10, 2019
 
-**Download PDF Here**
+**[Download PDF Here](https://drive.google.com/file/d/1Jsdvs7qAzw-DsgFHk6dFIGecJ5UWDM0t/view?usp=sharing)**
 
 <hr/>
 
@@ -65,56 +65,32 @@ Amid fearful challenges or opportunities we face, how can we discern God’s voi
 ### Opening Questions
 
 1. In light of the challenges and opportunities you are facing, what do you think Jesus might be saying to you?"
-
-
-
 2. What indicators give you some measure of confidence that it is indeed Jesus speaking to you rather than someone or something else?
 
 <hr/>
 
 <iframe src="https://streamable.com/e/p4bs6x?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
-
-
 3. The Ten Meter Tower that was featured in the 2017 Sundance Film Festival is a portrait of human-beings in doubt and the way humans respond to fear. What is your response to this clip?
-
-
-
 4. When we are faced with an important decision to make, many of us are over analyzing and paralyzed, some of us are rushing to jump in without checking if there is enough water, many of us are standing there. How do you relate?
 
 <hr/>
 
 <iframe src="https://streamable.com/e/fy9pib?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
-
-
 5. Storm in the bible is often a metaphor for disorientation, confusion, and spiritual warfare. When the disciples were in this situation, Jesus drew near. Share a time where you were in the middle of a “storm” and Jesus drew near.
-
-
-
 6. Jesus is near but hard to see and often hidden. This is the conundrum of our lives. What does this say about Jesus?
-
-
 
 <hr/>
 
 <iframe src="https://streamable.com/e/bknswn?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
-
-
 7. The sea in the ancient times was the dwelling place of evil powers like Leviathan the sea monster. Jesus walked on water to show that he has authority over every power in this world. What are some of the storms in your life you are afraid of?
-
-
-
 8. The first few words out of Jesus were words of assurance. “Take heart, I AM, do not be afraid.” How does this apply in the challenges and opportunities you are facing?
-
-
 
 <hr/>
 
 <iframe src="https://streamable.com/e/04n7u3?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-
-
 
 9. Peter is discerning and asks “Lord, if it’s you, tell me to come.” In the midst of a storm and the noise of the waves, Peter is able to recognize Jesus’ voice. We, also, want to ask if it is in fact, God in our situation. A crucial part of discerning is to ask God “Lord, is this of you?” Knowing the Scripture, spending daily time with God, being in community with believers are all ways we grow in discerning God’s voice. How are you equipping yourself to discern the voice of God readily? Where do you need to grow?
 
@@ -122,43 +98,23 @@ Amid fearful challenges or opportunities we face, how can we discern God’s voi
 
 <iframe src="https://streamable.com/e/vuecku?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
-
-
 10. Read verse 29. We often stay on the boat out of fear of failure, embarrassment, and the unknowns. We like to wait for absolute certainty. We end up worshiping certainty instead of worshiping God. In what areas in my life am I worshiping certainty instead of God?
-
-
-
 11. Read verse 30. Peter was in the center of God’s will, and sinks. No one was more in the center of God’s will than Jesus, and He ends up on a cross, crucified. What happens when you hear correctly and still sink - marriage crumbles, business fails, lose the job, health, etc.?
-
-
 
 Leader’s note: No matter what good things we accomplished and morally righteous we are, sooner or later we all fall, and lose our way. As we find ourselves sinking, as our sins bring us under the waters, “Lord save me” brings us right back up.
 
-
-
 12. Read verse 31. What does this say about Jesus?
-
-
 
 \
 Leader’s note: Jesus is strong enough to grab and lift us from our sinking situation immediately. It may look differently from what we imagined, but He will save us.
 
-
-
 Where are you in the story today? In the boat, refusing to go anywhere? Have you heard the voice, and at the edge? Are you walking on water? Are you sinking? Regardless of wherever you’re at, all things lead to these three words “Lord save me.”
-
-
 
 <hr/>
 
 ### Application
 
-
-
 1. What are you taking away from this study?
-
-
-
 2. What are you willing to start this week to become more sensitive to God’s voice?
 
 ### Pray Together
