@@ -22,7 +22,7 @@ categories:
 
 **Date**: July 16, 2017
 
-**Download PDF Here**
+**[Download PDF Here](https://drive.google.com/file/d/1-4kTqxMpZQQzJGtNaGWoJO303hrNyaUn/view?usp=sharing)**
 
 ### **<hr/>**
 
