@@ -2,7 +2,7 @@
 template: SinglePost
 title: Small Group Sermon Series Parables Of Jesus - Session 4
 status: Published
-date: 2020-10-29
+date: 2020-08-30
 featuredImage: https://ucarecdn.com/64af9aaf-a00f-461a-8f70-c7ccf91e17d8/
 excerpt: >-
   **Sermon**:
