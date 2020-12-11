@@ -111,7 +111,7 @@ What we need is a prayerful discernment.
 
 <iframe src="https://streamable.com/e/x8pvs2?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
-Psalm 40:8 My delight is to do your will.
+> Psalm 40:8 My delight is to do your will.
 
 3. How does delighting or not delighting in God affect how we hear from God?
 
@@ -134,7 +134,7 @@ Psalm 40:8 My delight is to do your will.
 
 Take a moment to reflect on these truths that counter the false beliefs above.
 
-* God wants you to rest in his love.
+* > God wants you to rest in his love.
 
 <!---->
 
