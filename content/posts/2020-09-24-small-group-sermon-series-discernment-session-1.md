@@ -120,16 +120,24 @@ Psalm 40:8 My delight is to do your will.
 4. Pastor Rich speaks of his teenage years where he had a general trust in God to hold the world together but felt challenged to hold this faith in regards to a relationship that had ended. Is there any time in the present or past where it was difficult to delight in God’s will?
 5. At the core of discernment: Our images of God need to be healed. Which of these are true? What image of God do you hold that is untrue?
 
-* God wants me to try harder.
-* God blesses me when I’m good and punishes me when I’m bad.
-* God is angry with me.
-* God is disappointed with me.
-* God wants me to suffer for my sins.
-* God doesn't want to see me happy.
+* * God wants me to try harder.
+
+  * God blesses me when I’m good and punishes me when I’m bad.
+
+  * God is angry with me.
+
+  * God is disappointed with me.
+
+  * God wants me to suffer for my sins.
+
+  * God doesn't want to see me happy.
 
 Take a moment to reflect on these truths that counter the false beliefs above.
 
 * God wants you to rest in his love.
+
+<!---->
+
 * God makes the rain fall on the righteous and the unrighteous.
 * God is in love with you.
 * God joyfully claims you.
