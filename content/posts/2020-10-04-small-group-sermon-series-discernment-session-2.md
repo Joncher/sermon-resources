@@ -53,7 +53,7 @@ When we discern, some of us wait until we get a clear external answer, while som
 
 <hr/>
 
-<iframe src="https://streamable.com/e/124fuq?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rs2-SoHABHg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 3. Read verses 12 and 13. What does it mean to work “out” your salvation?
 
@@ -76,7 +76,7 @@ Love God and do whatever you please. For the soul trained in love to God will do
 
 <hr/>
 
-<iframe src="https://streamable.com/e/ksgydk?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/whsTfAXOTtU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 6. Many times we have desires that are pulling away from God and sometimes pulling towards God. How can we discern when we can’t make sense of it?
 
@@ -119,7 +119,7 @@ Desolations
 
 <hr/>
 
-<iframe src="https://streamable.com/e/r4d8f0?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZOja3LJol5Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 8. We often desire answers to come to us externally to help us decide instead of doing the spiritual work of praying, waiting and listening. Pastor Rich calls this spiritual laziness. Is there an external answer you are looking for while delaying the spiritual work?
 9. We often manipulate positive feelings (oh, this feels good) into consolations and negative feelings (ugh, i hate this) into desolations. How are we able to tell the impulsive feelings apart from consolation and desolation?
