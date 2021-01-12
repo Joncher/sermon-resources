@@ -80,14 +80,14 @@ Typically when we hear the word “parable” we think of an earthly story with 
 
 <hr/>
 
-<iframe src="https://streamable.com/e/eh2fxp?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LpP_bLru5FI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 3. The father, who the youngest son has essentially wished dead by demanding his share of the inheritance, runs towards and embraces his son who comes home disheveled, smelling of pigs. What a picture of grace! How have you seen God move towards you first before you were “cleaned up” or repentant?
 4. Where do you wrestle with believing God loves you like this father in the parable?
 
 <hr/>
 
-<iframe src="https://streamable.com/e/jrtkvg?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GoohenvGIl8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 5. Harvie Conn says, “The longer you are in the church the more you can resemble the elder brother in the parable of the prodigal son.” If you have been a churchgoer for some time, how does this statement resonate with you?
 6. The prodigal son story is one about death. The father is dead in the sense of having given away his inheritance before death, the son has died in losing all claim to his father’s love by what he has done, the fatted calf is killed. How has death played a part in your journey of knowing and walking with God?
