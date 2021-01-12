@@ -69,34 +69,34 @@ Amid fearful challenges or opportunities we face, how can we discern God’s voi
 
 <hr/>
 
-<iframe src="https://streamable.com/e/p4bs6x?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4pDjB-qNHz8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 3. The Ten Meter Tower that was featured in the 2017 Sundance Film Festival is a portrait of human-beings in doubt and the way humans respond to fear. What is your response to this clip?
 4. When we are faced with an important decision to make, many of us are over analyzing and paralyzed, some of us are rushing to jump in without checking if there is enough water, many of us are standing there. How do you relate?
 
 <hr/>
 
-<iframe src="https://streamable.com/e/fy9pib?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NdDNWLg6Xek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 5. Storm in the bible is often a metaphor for disorientation, confusion, and spiritual warfare. When the disciples were in this situation, Jesus drew near. Share a time where you were in the middle of a “storm” and Jesus drew near.
 6. Jesus is near but hard to see and often hidden. This is the conundrum of our lives. What does this say about Jesus?
 
 <hr/>
 
-<iframe src="https://streamable.com/e/bknswn?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l1PwqMC_Z8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-7. The sea in the ancient times was the dwelling place of evil powers like Leviathan the sea monster. Jesus walked on water to show that he has authority over every power in this world. What are some of the storms in your life you are afraid of?
-8. The first few words out of Jesus were words of assurance. “Take heart, I AM, do not be afraid.” How does this apply in the challenges and opportunities you are facing?
+7. The sea in ancient times was the dwelling place of evil powers like Leviathan the sea monster. Jesus walked on water to show that he has authority over every power in this world. What are some of the storms in your life you are afraid of?
+8. The first few words out of Jesus were words of assurance. “Take heart, I AM, do not be afraid.” How does this apply to the challenges and opportunities you are facing?
 
 <hr/>
 
-<iframe src="https://streamable.com/e/04n7u3?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jd3MLQykds0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 9. Peter is discerning and asks “Lord, if it’s you, tell me to come.” In the midst of a storm and the noise of the waves, Peter is able to recognize Jesus’ voice. We, also, want to ask if it is in fact, God in our situation. A crucial part of discerning is to ask God “Lord, is this of you?” Knowing the Scripture, spending daily time with God, being in community with believers are all ways we grow in discerning God’s voice. How are you equipping yourself to discern the voice of God readily? Where do you need to grow?
 
 <hr/>
 
-<iframe src="https://streamable.com/e/vuecku?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pMj9EQisVmc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 10. Read verse 29. We often stay on the boat out of fear of failure, embarrassment, and the unknowns. We like to wait for absolute certainty. We end up worshiping certainty instead of worshiping God. In what areas in my life am I worshiping certainty instead of God?
 11. Read verse 30. Peter was in the center of God’s will, and sinks. No one was more in the center of God’s will than Jesus, and He ends up on a cross, crucified. What happens when you hear correctly and still sink - marriage crumbles, business fails, lose the job, health, etc.?
