@@ -97,7 +97,7 @@ Discernment can be especially challenging when we face deciding between two good
 * How do you currently discern God’s will in making decisions?
 * Are there any important decisions you are facing now that need direction from the Lord?
 
-<iframe src="https://streamable.com/e/j8hze2?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-2GhT1XrE8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. Which category do you most tend to fall into: a) always discerning but never deciding -or- b) always deciding but never discerning?
 2. How has your family of origin made it easy or difficult for you to discern God’s will for your life?
@@ -109,7 +109,7 @@ according to their various natures.
 
 What we need is a prayerful discernment.
 
-<iframe src="https://streamable.com/e/x8pvs2?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RY_jSkPiZgg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > Psalm 40:8 My delight is to do your will.
 
@@ -146,7 +146,7 @@ Take a moment to reflect on these truths that counter the false beliefs above.
 
 \- God has endless joy for you in store.
 
-<iframe src="https://streamable.com/e/9s6o63?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MGi3D-QcVqI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 6. Have you had an experience where you trusted in God and it didn’t turn out the way you thought? What was that like?
 7. Has there been any good that God brought out of evil that came your way?
