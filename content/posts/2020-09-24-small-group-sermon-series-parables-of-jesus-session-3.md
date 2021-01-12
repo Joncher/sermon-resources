@@ -81,21 +81,21 @@ Stories have a way of helping us grasp a point in a way that a direct statement 
 
 <hr/>
 
-<iframe src="https://streamable.com/e/fvs2dn?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BdKrfVsubjQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 3. The landowner repeatedly returns to the marketplace to hire more workers though he does not necessarily have need of them. This story depicts a picture of a God who continues to search, reach out and seeks us out even when we’re lost. What draws or repels you about this picture of the kingdom of God?
 
 <hr/>
 
-<iframe src="https://streamable.com/e/tgbq3m?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zMh8tmzPR2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 4. So often cultural norms can seep into our lives as Christians in subtle ways. Where in your Christian journey have you seen the view of meritocracy (of earning value by providing value or rewarding those who show ability or talent) at work in yourself or your relationships with others?
-5. What would it look like if our story as a congregation, as a people and the spheres of influence that we have, was an economy of generosity and grace rather than merely what you earn or deserve?
+5. What would it look like if our story as a congregation, as a people, and the spheres of influence that we have, was an economy of generosity and grace rather than merely what you earn or deserve?
 6. If God is a landowner like the one pictured, we are freed to also open our hands and be generous and gracious to others because we trust in God’s generous ability to give rather than our ability to produce. Where do you find your hands closing to hold back? Where is it hard for you to trust God’s generosity and ability to give?
 
 <hr/>
 
-<iframe src="https://streamable.com/e/7jdiek?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FQdHr81ry1c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 7. The longer people attend a church, it can be easy to begin taking on an insider mentality. Is there anyone you look around at and wonder “What are they doing here at church?”
 8. How does the church in New Providence, NJ portray the same heart as that of the landowner in Jesus’ story?
