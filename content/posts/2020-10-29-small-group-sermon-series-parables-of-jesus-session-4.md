@@ -81,23 +81,23 @@ Jesus used parables both to reveal God’s ways to people and to conceal it. The
 
 <hr/>
 
-<iframe src="https://streamable.com/e/3lv5og?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qr9Co0NsVEw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 3. Is faith easy or challenging for you? What aspects of the faith journey are challenging?
 4. Which side of the spectrum do you swing towards - do you tend to see the devil as absent or tend to overemphasize his presence in challenges and temptations that arise?
 5. What is a healthy way to recognize the devil’s activity while being mindful of God’s greater and ultimate authority?
 
-<iframe src="https://streamable.com/e/gwztn7?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ofcwfAg21cw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 6. When things don’t work out the way you would like, does this test your relationship with God? In what ways?
-7. Are you a second or third generation Christian? Do you see ways that you may take your faith for granted rather than taking greater ownership of your faith, as evidenced by turning away from faith under pressure?
+7. Are you a second or third-generation Christian? Do you see ways that you may take your faith for granted rather than taking greater ownership of your faith, as evidenced by turning away from faith under pressure?
 
-<iframe src="https://streamable.com/e/kuh0uz?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Gvupz3fajE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 8. Worry prevents us from maturing as followers of Jesus. Has worry played a recurring big role in your family generationally?
 9. Worry, pleasures, money are all major distractions like the thorns in the story that choked the plants that were growing. Which of these do you wrestle most with?
 
-<iframe src="https://streamable.com/e/fi9lb5?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uY_xoB2jhQQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 10. Good soil comes from perseverance. Eugene Peterson, a theologian and author of The Message translation of the Bible, describes discipleship as a “long obedience in the same direction.” What would help you, in this season of your faith journey, to stay the course? Some ideas are more time in Scripture, deeper relationships of transparency with believers, growing in skills for emotionally healthy relationships, sharing faith.
 11. Does the word of God shape how you live life? In what ways?
