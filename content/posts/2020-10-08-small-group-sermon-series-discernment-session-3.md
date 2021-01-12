@@ -48,14 +48,14 @@ The Prudent - thinks ahead, patiently giving careful thought to the long-term im
 
 <hr/>
 
-<iframe src="https://streamable.com/e/r5dq5s?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pTtCbpJ6KoU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. What are some of the characteristics of a fool according to the bible? What does the bible say about people who are stuck in their ways?
 2. We often don’t use our heads and suffer needlessly. Where in my life have I been foolish?
 
 <hr/>
 
-<iframe src="https://streamable.com/e/fg5xr2?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9LO2eQIzOvM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 3. What are some of the reasons that prevent us from being prudent?
 
@@ -63,7 +63,9 @@ Leader’s note: tradition, culture, family, living in reality, stuck in our way
 
 4. All of us know how to bring up anxiety when there is no anxiety and the lizard brain overrides the prudent brain in a reactive and anxious way that leads us to foolishness. Share a time when you were reactive and anxious.
 
-<hr/><iframe src="https://streamable.com/e/yx7nni?loop=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<hr/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8emeFu_mMNo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 5. We can be prudent in some areas and fools in others. (Finances, time, relationships, etc.) What areas do you think you are more prudent in and what areas more foolish with?
 6. Grace is God doing for us and in us what we cannot do for ourselves. Where does the gospel of transforming grace come in this picture?
